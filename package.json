@@ -1,0 +1,20 @@
+{
+  "name": "chitralahari",
+  "version": "1.0.0",
+  "description": "Songs ",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "songs",
+    "telugu",
+    "desi",
+    "india",
+    "videos",
+    "angular2",
+    "nodejs"
+  ],
+  "author": "lmssrinivas",
+  "license": "ISC"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "chtralahari",
+  "version": "1.0.0",
+  "description": "songs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/common": "^2.4.4",
+    "@angular/compiler": "^2.4.4",
+    "@angular/core": "^2.4.4",
+    "@angular/forms": "^2.4.4",
+    "@angular/http": "^2.4.4",
+    "@angular/platform-browser": "^2.4.4",
+    "@angular/router": "^3.4.4",
+    "rxjs": "^5.0.3",
+    "zone.js": "^0.7.6"
+  }
+}
