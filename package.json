@@ -16,5 +16,9 @@
     "nodejs"
   ],
   "author": "lmssrinivas",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "https://github.com/lmssrinivas/chitralahari.git",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
