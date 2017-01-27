@@ -711,6 +711,10 @@ readable-stream@^2.0.0, readable-stream@^2.0.2, readable-stream@^2.0.5, readable
     string_decoder "~0.10.x"
     util-deprecate "~1.0.1"
 
+reflect-metadata@^0.1.9:
+  version "0.1.9"
+  resolved "https://registry.yarnpkg.com/reflect-metadata/-/reflect-metadata-0.1.9.tgz#987238dc87a516895fe457f130435ffbd763a4d4"
+
 registry-auth-token@^3.0.1:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/registry-auth-token/-/registry-auth-token-3.1.0.tgz#997c08256e0c7999837b90e944db39d8a790276b"
