@@ -27,6 +27,7 @@
   },
   "repository": {},
   "devDependencies": {
+    "@types/node": "^7.0.4",
     "typescript": "^2.1.5",
     "typings": "^2.1.0"
   }
