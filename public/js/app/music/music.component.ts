@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
     moduleId: module.id,
-    selector: 'selector',
+    selector: 'music',
     templateUrl: 'music.component.html'
 })
 export class MusicComponent implements OnInit {

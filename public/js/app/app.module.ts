@@ -14,6 +14,7 @@ import {AppComponent} from "./app.component";
 import {MaterialModule} from "@angular/material";
 import {MusicModule} from "./music/music.module";
 import {WidgetsModule} from "./widgets/widget.module";
+import {AppRouting} from "./app.routing";
 
 @NgModule({
     imports: [
@@ -23,6 +24,7 @@ import {WidgetsModule} from "./widgets/widget.module";
         HttpModule,
         CommonModule,
         MaterialModule.forRoot(),
+        AppRouting,
         MusicModule,
         WidgetsModule
     ],
