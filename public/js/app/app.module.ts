@@ -11,6 +11,9 @@ import {CommonModule} from "@angular/common";
 import {BrowserModule} from "@angular/platform-browser";
 
 import {AppComponent} from "./app.component";
+import {MaterialModule} from "@angular/material";
+import {MusicModule} from "./music/music.module";
+import {WidgetsModule} from "./widgets/widget.module";
 
 @NgModule({
     imports: [
@@ -18,7 +21,10 @@ import {AppComponent} from "./app.component";
         FormsModule,
         RouterModule,
         HttpModule,
-        CommonModule
+        CommonModule,
+        MaterialModule.forRoot(),
+        MusicModule,
+        WidgetsModule
     ],
     exports: [],
     declarations: [AppComponent],

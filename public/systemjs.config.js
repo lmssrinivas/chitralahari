@@ -15,6 +15,8 @@
         '@angular/router':'node_modules/@angular/router/bundles/router.umd.js',
         '@angular/forms':'node_modules/@angular/forms/bundles/forms.umd.js',
 
+        '@angular/material': 'node_modules/@angular/material/bundles/material.umd.js',
+
         // 'typescript':'node_modules/typescript/lib/typescript',
 
         'rxjs':'node_modules/rxjs'
